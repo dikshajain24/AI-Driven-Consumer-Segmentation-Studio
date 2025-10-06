@@ -86,6 +86,56 @@ Your CSV **must contain** the following fields (case-insensitive):
 
 ---
 
+---
+
+## 📸 Screenshots
+
+Explore the **AI-Driven Consumer Segmentation Studio** interface — an end-to-end view of how customer insights come to life.
+
+### 🏠 Main Analytics Dashboard
+Get a quick summary of your dataset, KPIs, and behavioral metrics before clustering.
+<br>
+<img width="1890" height="876" alt="Main Analytics" src="https://github.com/user-attachments/assets/1984d3c1-01f6-4b19-8318-3b2f7aaba904" />
+
+---
+
+### 🔍 Interactive Filtering
+Filter by **Country**, **Monetary Threshold**, or toggle between demo and main datasets to focus your analysis.
+<br>
+<img width="1920" height="809" alt="Filtering by Clustering" src="https://github.com/user-attachments/assets/2103d97c-cba8-4a5b-a5c4-f57acbf519b7" />
+
+---
+
+### 🎯 Cluster Visualization
+Visualize customer segments in 2D and 3D space using **PCA-based scatter plots** and explore behavior patterns at a glance.
+<br>
+<img width="1920" height="904" alt="Clusters & Visualization" src="https://github.com/user-attachments/assets/1ebaf868-e5c4-4296-a870-919b80027d8f" />
+
+---
+
+### 🧭 Cluster Filtering & Insights
+Fine-tune the number of clusters or select different feature combinations (Recency, Frequency, Monetary, etc.) for new insights.
+<br>
+<img width="1920" height="902" alt="Clusters by filters" src="https://github.com/user-attachments/assets/76350535-0f2a-4778-b210-cf45a04a827d" />
+
+---
+
+### 💡 Marketing Recommendations
+Automatically generated **actionable insights** for each cluster — identify Loyalists, Deal Seekers, and Dormant Customers with suggested strategies.
+<br>
+<img width="1912" height="902" alt="Recommendations" src="https://github.com/user-attachments/assets/bcc211f2-2999-478a-8f0b-ce4218924758" />
+
+---
+
+### 📥 Download Segmentation Results
+Export clustered customer data as CSV and save trained models for further analysis or integration.
+<br>
+<img width="1854" height="390" alt="Download Consumer Segmentation" src="https://github.com/user-attachments/assets/7bc0fa4b-29f0-4c3e-b0b1-8c5c1dfb094a" />
+
+---
+
+
+
 ## ⚙️ Setup & Run Locally
 
 ### 1️⃣ Clone the Repository
@@ -157,7 +207,6 @@ Pandas & NumPy – data wrangling
 Scikit-learn – K-Means clustering, PCA
 Plotly – interactive data visualization
 
-📸 Screenshots
 
 ❤️ About
 Developed by Diksha Jain. 
